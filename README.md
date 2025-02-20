@@ -15,4 +15,4 @@ Realicé diversas tareas clave en el ensayo, desde los preparativos previos, org
 
 Esta experiencia me permitió no solo profundizar en el ensayo en sí, sino también adquirir conocimientos sobre los protocolos y cuidados necesarios en el ámbito nuclear.
 
-Toda la información detallada sobre el ensayo, así como el código fuente y los resultados, se encuentran disponibles en el informe subido a este repositorio.
+Toda la información detallada sobre el ensayo se encuentran disponibles en el informe subido a este repositorio.
