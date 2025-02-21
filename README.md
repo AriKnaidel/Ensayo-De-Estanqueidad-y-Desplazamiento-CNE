@@ -18,3 +18,8 @@ Esta experiencia me permitió no solo profundizar en el ensayo en sí, sino tamb
 Toda la información detallada sobre el ensayo se encuentra disponible en el informe.
 
 ## Imágenes
+![Imagen1](https://github.com/user-attachments/assets/06ec9fec-77cc-4afd-982e-90696cd904e2)
+![Imagen4](https://github.com/user-attachments/assets/96669e03-8e52-40ca-a11a-a038ddeec870)
+![Imagen3](https://github.com/user-attachments/assets/4c7f374c-387f-4fbb-9c0a-c7fd632b2d8e)
+![Imagen2](https://github.com/user-attachments/assets/eb7f85e1-2630-4437-8e1a-6137cfd43bc5)
+
