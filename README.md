@@ -22,7 +22,7 @@ Toda la información detallada sobre el ensayo se encuentra disponible en el inf
 ## Imágenes
 <p align="center">
   <img src="https://github.com/user-attachments/assets/06ec9fec-77cc-4afd-982e-90696cd904e2" alt="Imagen1">
-  <img src="https://github.com/user-attachments/assets/eb7f85e1-2630-4437-8e1a-6137cfd43bc5" alt="Imagen2">
+  <img src="https://github.com/user-attachments/assets/eb7f85e1-2630-4437-8e1a-6137cfd43bc5" alt="Imagen2" width="300" height="200">
   <img src="https://github.com/user-attachments/assets/4c7f374c-387f-4fbb-9c0a-c7fd632b2d8e" alt="Imagen3">
   <img src="https://github.com/user-attachments/assets/96669e03-8e52-40ca-a11a-a038ddeec870" alt="Imagen4">
 </p>
